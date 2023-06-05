@@ -8,4 +8,10 @@ class Reservation < ApplicationRecord
 
     Reservation.where("time > ?", sunday).where("time < ?", next_sunday)
   end
+
+  def self.by_day(day)
+    date = day.to_date
+
+    Reservation.where("time > ?", date).where("time < ?", date + 1)
+  end
 end

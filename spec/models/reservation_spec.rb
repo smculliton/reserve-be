@@ -19,5 +19,15 @@ RSpec.describe Reservation, type: :model do
         expect(Reservation.by_week(1)).to eq([@res2])
       end
     end
+
+    describe '#by_day' do 
+      it 'returns reservations based on day of given date time' do 
+        date = DateTime.now
+
+        expect(Reservation.by_day(date)).to eq([@res1])
+        expect(Reservation.by_day(date + 1)).to eq([])
+        expect(Reservation.by_day(date + 7)).to eq([@res2])
+      end
+    end
   end
 end
