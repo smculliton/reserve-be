@@ -5,6 +5,16 @@ class ReservationsController < ApplicationController
     render json: ReservationSerializer.new(reservations), status: 200
   end
 
+  def show
+    reservation = Reservation.find_by(id: params[:id])
+
+    if reservation
+      render json: ReservationSerializer.new(reservation), status: 200
+    else
+      render json: 'Reservation not found in database'
+    end
+  end
+
   def create
     reservation = Reservation.new(reservation_params)
 
@@ -27,7 +37,7 @@ class ReservationsController < ApplicationController
   end
 
   private
-  
+
   def reservation_params
     params.permit(:email, :party_size, :time)
   end
