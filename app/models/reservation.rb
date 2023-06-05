@@ -6,6 +6,6 @@ class Reservation < ApplicationRecord
     sunday = date - date.cwday
     next_sunday = date + (7 - date.cwday)
 
-    x = Reservation.where("time > ?", sunday).where("time < ?", next_sunday)
+    Reservation.where("time > ?", sunday).where("time < ?", next_sunday)
   end
 end
