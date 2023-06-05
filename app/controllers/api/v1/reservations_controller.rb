@@ -1,4 +1,4 @@
-class ReservationsController < ApplicationController
+class Api::V1::ReservationsController < ApplicationController
   def index
     week = request.headers[:week].to_i || 0
     reservations = Reservation.by_week(week)
