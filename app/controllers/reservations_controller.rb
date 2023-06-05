@@ -1,6 +1,7 @@
 class ReservationsController < ApplicationController
   def index
-    reservations = Reservation.all
+    week = request.headers[:week].to_i || 0
+    reservations = Reservation.by_week(week)
 
     render json: ReservationSerializer.new(reservations), status: 200
   end
