@@ -1,0 +1,3302 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ruby Tuesday",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Colorado",
+        "city": "Denver",
+        "postcode": "80249",
+        "street": "Tower Road",
+        "housenumber": "6751",
+        "lon": -104.77248889948979,
+        "lat": 39.81978685,
+        "state_code": "CO",
+        "formatted": "Ruby Tuesday, 6751 Tower Road, Denver, CO 80249, United States of America",
+        "address_line1": "Ruby Tuesday",
+        "address_line2": "6751 Tower Road, Denver, CO 80249, United States of America",
+        "categories": [
+          "building",
+          "building.catering",
+          "building.commercial",
+          "catering",
+          "catering.restaurant",
+          "catering.restaurant.american"
+        ],
+        "details": [
+          "details",
+          "details.catering",
+          "details.contact"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database Licence",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Ruby Tuesday",
+            "brand": "Ruby Tuesday",
+            "phone": "303-373-5800",
+            "osm_id": 132751424,
+            "amenity": "restaurant",
+            "cuisine": "american",
+            "website": "http://www.rubytuesday.com",
+            "building": "retail",
+            "osm_type": "w",
+            "addr:city": "Denver",
+            "addr:street": "Tower Road",
+            "addr:postcode": 80249,
+            "opening_hours": "Mo-Su 10:00-22:00",
+            "brand:wikidata": "Q7376400",
+            "brand:wikipedia": "en:Ruby Tuesday (restaurant)",
+            "addr:housenumber": 6751
+          }
+        },
+        "place_id": "51e8282ba570315ac05923b006f7eee84340f00102f90140a0e9070000000092030c527562792054756573646179"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.77250031676124,
+          39.81979263140263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tony Roma's",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Colorado",
+        "city": "Denver",
+        "postcode": "80239",
+        "street": "Peoria Street",
+        "housenumber": "4411",
+        "lon": -104.84792446888768,
+        "lat": 39.7758099,
+        "state_code": "CO",
+        "formatted": "Tony Roma's, 4411 Peoria Street, Denver, CO 80239, United States of America",
+        "address_line1": "Tony Roma's",
+        "address_line2": "4411 Peoria Street, Denver, CO 80239, United States of America",
+        "categories": [
+          "building",
+          "building.catering",
+          "catering",
+          "catering.restaurant",
+          "catering.restaurant.barbecue"
+        ],
+        "details": [
+          "details",
+          "details.catering",
+          "details.contact"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database Licence",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Tony Roma's",
+            "brand": "Tony Roma's",
+            "phone": "+1-303-375-8080",
+            "osm_id": 1100665248,
+            "amenity": "restaurant",
+            "cuisine": "barbecue",
+            "website": "https://tonyromas.com/",
+            "building": "yes",
+            "osm_type": "w",
+            "addr:city": "Denver",
+            "addr:state": "CO",
+            "addr:street": "Peoria Street",
+            "addr:postcode": 80239,
+            "opening_hours": "Su-Sa 17:00-22:00",
+            "brand:wikidata": "Q2213883",
+            "diet:vegetarian": "no",
+            "addr:housenumber": 4411
+          }
+        },
+        "place_id": "5167311e7a44365ac059f13bc17f4ee34340f00102f901a0d19a410000000092030b546f6e7920526f6d612773"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.84792950581105,
+          39.775833100655184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thai Chili & Sushi",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Colorado",
+        "city": "Denver",
+        "postcode": "80239",
+        "suburb": "Gateway Park",
+        "street": "East 40th Avenue",
+        "housenumber": "16221",
+        "lon": -104.798733,
+        "lat": 39.7734261,
+        "state_code": "CO",
+        "formatted": "Thai Chili & Sushi, 16221 East 40th Avenue, Denver, CO 80239, United States of America",
+        "address_line1": "Thai Chili & Sushi",
+        "address_line2": "16221 East 40th Avenue, Denver, CO 80239, United States of America",
+        "categories": [
+          "catering",
+          "catering.restaurant",
+          "catering.restaurant.thai"
+        ],
+        "details": [
+          "details",
+          "details.catering",
+          "details.contact"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database Licence",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Thai Chili & Sushi",
+            "phone": "+1-303-307-1119",
+            "osm_id": 565306329,
+            "amenity": "restaurant",
+            "cuisine": "thai",
+            "website": "https://www.thaichilisushico.com/",
+            "osm_type": "n",
+            "addr:city": "Denver",
+            "addr:unit": "D",
+            "addr:state": "CO",
+            "addr:street": "East 40th Avenue",
+            "addr:postcode": 80239,
+            "opening_hours": "Mo-Th 10:30-22:00, Fr 10:30-22:30, Sa-Su 11:00-22:00",
+            "addr:housenumber": 16221
+          }
+        },
+        "place_id": "511a4f04711e335ac05993315fa0ffe24340f00103f901d9e3b1210000000092031254686169204368696c692026205375736869"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.798733,
+          39.7734261002362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Unos",
+        "old_name": "Uno Chicago Grill",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Colorado",
+        "city": "Denver",
+        "postcode": "80239",
+        "suburb": "Gateway Park",
+        "street": "East 40th Avenue",
+        "housenumber": "16375",
+        "lon": -104.79633895941816,
+        "lat": 39.773307349999996,
+        "state_code": "CO",
+        "formatted": "Unos, 16375 East 40th Avenue, Denver, CO 80239, United States of America",
+        "address_line1": "Unos",
+        "address_line2": "16375 East 40th Avenue, Denver, CO 80239, United States of America",
+        "categories": [
+          "building",
+          "building.catering",
+          "catering",
+          "catering.restaurant",
+          "catering.restaurant.pizza"
+        ],
+        "details": [
+          "details",
+          "details.catering",
+          "details.contact"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database Licence",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "fax": "(303) 371-1556",
+            "name": "Unos",
+            "brand": "Unos",
+            "phone": "+1-303-371-1555",
+            "osm_id": 130803858,
+            "amenity": "restaurant",
+            "cuisine": "pizza",
+            "website": "https://restaurants.unos.com/locations/Denver/CO/8101",
+            "alt_name": "Pizzeria Uno",
+            "building": "yes",
+            "old_name": "Uno Chicago Grill",
+            "osm_type": "w",
+            "addr:city": "Denver",
+            "addr:state": "CO",
+            "addr:street": "East 40th Avenue",
+            "addr:postcode": 80239,
+            "opening_hours": "Mo-Su 11:00-23:00",
+            "brand:wikidata": "Q7897209",
+            "addr:housenumber": 16375
+          }
+        },
+        "place_id": "513d329f2cf7325ac059402f60d8fae24340f00102f90192e8cb0700000000920304556e6f73"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.79633632227429,
+          39.773280188527224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Anthony's Pizza & Pasta",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Colorado",
+        "city": "Denver",
+        "postcode": "80239",
+        "suburb": "Gateway Park",
+        "street": "East 40th Avenue",
+        "housenumber": "16221",
+        "lon": -104.798922,
+        "lat": 39.7732875,
+        "state_code": "CO",
+        "formatted": "Anthony's Pizza & Pasta, 16221 East 40th Avenue, Denver, CO 80239, United States of America",
+        "address_line1": "Anthony's Pizza & Pasta",
+        "address_line2": "16221 East 40th Avenue, Denver, CO 80239, United States of America",
+        "categories": [
+          "catering",
+          "catering.restaurant",
+          "catering.restaurant.pizza"
+        ],
+        "details": [
+          "details",
+          "details.catering",
+          "details.contact"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database Licence",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Anthony's Pizza & Pasta",
+            "phone": "+1-303-373-9000",
+            "osm_id": 565306330,
+            "amenity": "restaurant",
+            "cuisine": "pizza",
+            "website": "http://www.anthonyspizzaandpasta.com/location/gateway-park",
+            "osm_type": "n",
+            "addr:city": "Denver",
+            "addr:unit": "C",
+            "addr:state": "CO",
+            "addr:street": "East 40th Avenue",
+            "addr:postcode": 80239,
+            "opening_hours": "Mo-Su 11:00-21:00",
+            "addr:housenumber": 16221
+          }
+        },
+        "place_id": "518483bd8921335ac059c4f5b515fbe24340f00103f901dae3b12100000000920317416e74686f6e7927732050697a7a612026205061737461"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.798922,
+          39.773287500236194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Outback Steakhouse",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Colorado",
+        "city": "Denver",
+        "postcode": "80239",
+        "suburb": "Gateway Park",
+        "street": "East 40th Avenue",
+        "housenumber": "16375",
+        "lon": -104.797619,
+        "lat": 39.7732859,
+        "state_code": "CO",
+        "formatted": "Outback Steakhouse, 16375 East 40th Avenue, Denver, CO 80239, United States of America",
+        "address_line1": "Outback Steakhouse",
+        "address_line2": "16375 East 40th Avenue, Denver, CO 80239, United States of America",
+        "categories": [
+          "catering",
+          "catering.restaurant",
+          "catering.restaurant.american"
+        ],
+        "details": [
+          "details",
+          "details.catering",
+          "details.contact"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database Licence",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Outback Steakhouse",
+            "brand": "Outback Steakhouse",
+            "phone": "+1-303-576-6633",
+            "osm_id": 565306332,
+            "amenity": "restaurant",
+            "cuisine": "american;steak",
+            "website": "https://www.outback.com/locations/co/denver-gateway",
+            "osm_type": "n",
+            "addr:city": "Denver",
+            "addr:state": "CO",
+            "addr:street": "East 40th Avenue",
+            "addr:postcode": 80239,
+            "opening_hours": "Mo-Th 11:00-22:00, Fr-Sa 11:00-22:30, Su 11:00-21:30",
+            "brand:wikidata": "Q1064893",
+            "brand:wikipedia": "en:Outback Steakhouse",
+            "addr:housenumber": 16375
+          }
+        },
+        "place_id": "51c3ea8f300c335ac05976fc4908fbe24340f00103f901dce3b121000000009203124f75746261636b20537465616b686f757365"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.79761899999998,
+          39.77328590023619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Urban Sombrero",
+        "old_name": "Urban Sombrero Sports Grill",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Colorado",
+        "city": "Denver",
+        "postcode": "80239",
+        "suburb": "Gateway Park",
+        "street": "East 40th Avenue",
+        "housenumber": "16221",
+        "lon": -104.798739,
+        "lat": 39.7731589,
+        "state_code": "CO",
+        "formatted": "Urban Sombrero, 16221 East 40th Avenue, Denver, CO 80239, United States of America",
+        "address_line1": "Urban Sombrero",
+        "address_line2": "16221 East 40th Avenue, Denver, CO 80239, United States of America",
+        "categories": [
+          "catering",
+          "catering.restaurant",
+          "catering.restaurant.mexican",
+          "wheelchair",
+          "wheelchair.yes"
+        ],
+        "details": [
+          "details",
+          "details.catering",
+          "details.contact",
+          "details.facilities"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database Licence",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Urban Sombrero",
+            "phone": "+1-303-373-1133",
+            "osm_id": 565306331,
+            "amenity": "restaurant",
+            "cuisine": "mexican",
+            "website": "https://m.mainstreethub.com/index.php/urbansombrero",
+            "alt_name": "Urban Sombrero Bar & Grill",
+            "old_name": "Urban Sombrero Sports Grill",
+            "osm_type": "n",
+            "addr:city": "Denver",
+            "addr:unit": "A-B",
+            "addr:state": "CO",
+            "wheelchair": "yes",
+            "addr:street": "East 40th Avenue",
+            "addr:postcode": 80239,
+            "opening_hours": "Mo-Sa 11:00-02:00, Su 10:30-02:00",
+            "addr:housenumber": 16221
+          }
+        },
+        "place_id": "518ac22e8a1e335ac0591690efdef6e24340f00103f901dbe3b1210000000092030e557262616e20536f6d627265726f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.79873899999998,
+          39.77315890023617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hops & Pie",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Colorado",
+        "city": "Denver",
+        "postcode": "80212",
+        "district": "Berkeley",
+        "street": "Tennyson Street",
+        "housenumber": "3920",
+        "lon": -105.0438742,
+        "lat": 39.7713338,
+        "state_code": "CO",
+        "formatted": "Hops & Pie, 3920 Tennyson Street, Denver, CO 80212, United States of America",
+        "address_line1": "Hops & Pie",
+        "address_line2": "3920 Tennyson Street, Denver, CO 80212, United States of America",
+        "categories": [
+          "catering",
+          "catering.restaurant",
+          "catering.restaurant.pizza",
+          "vegetarian"
+        ],
+        "details": [
+          "details",
+          "details.catering",
+          "details.contact",
+          "details.facilities"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database Licence",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Hops & Pie",
+            "phone": "+1-303-477-7000",
+            "osm_id": 2189314598,
+            "amenity": "restaurant",
+            "cuisine": "pizza",
+            "toilets": "yes",
+            "website": "https://hopsandpie.com/",
+            "delivery": "yes",
+            "osm_type": "n",
+            "takeaway": "yes",
+            "addr:city": "Denver",
+            "addr:state": "CO",
+            "drink:beer": "yes",
+            "addr:street": "Tennyson Street",
+            "happy_hours": "yes",
+            "addr:postcode": 80212,
+            "opening_hours": "Tu-Th 11:30-22:00; Fr 11:30-23:00; Sa 12:00-23:00; Su 14:00-21:00",
+            "diet:vegetarian": "yes",
+            "addr:housenumber": 3920,
+            "toilets:wheelchair": "yes"
+          }
+        },
+        "place_id": "51d888bbd5ce425ac0590528e310bbe24340f00103f901264a7e820000000092030a486f7073202620506965"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.0438742,
+          39.771333800235915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tamales by La Casita",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Colorado",
+        "city": "Denver",
+        "postcode": "80211",
+        "district": "Highland",
+        "street": "Tejon Street",
+        "housenumber": "3561",
+        "lon": -105.0115796,
+        "lat": 39.7664811,
+        "state_code": "CO",
+        "formatted": "Tamales by La Casita, 3561 Tejon Street, Denver, CO 80211, United States of America",
+        "address_line1": "Tamales by La Casita",
+        "address_line2": "3561 Tejon Street, Denver, CO 80211, United States of America",
+        "categories": [
+          "catering",
+          "catering.restaurant",
+          "catering.restaurant.mexican"
+        ],
+        "details": [
+          "details",
+          "details.catering",
+          "details.contact"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database Licence",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Tamales by La Casita",
+            "phone": "303 477 2899",
+            "osm_id": 3052963388,
+            "amenity": "restaurant",
+            "cuisine": "mexican",
+            "website": "http://www.tamalesbylacasita.net",
+            "osm_type": "n",
+            "addr:city": "Denver",
+            "addr:state": "CO",
+            "addr:street": "Tejon Street",
+            "addr:postcode": 80211,
+            "opening_hours": "07:00-07:00",
+            "addr:housenumber": 3561
+          }
+        },
+        "place_id": "5140d35cb8bd405ac05997417d0d1ce24340f00103f9013c86f8b50000000092031454616d616c6573206279204c6120436173697461"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.0115796,
+          39.76648110023523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Patzcuaro's Mexican Restaurant",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Colorado",
+        "city": "Denver",
+        "postcode": "80211",
+        "district": "Highland",
+        "street": "West 32nd Avenue",
+        "housenumber": "2616",
+        "lon": -105.0194539,
+        "lat": 39.7618528,
+        "state_code": "CO",
+        "formatted": "Patzcuaro's Mexican Restaurant, 2616 West 32nd Avenue, Denver, CO 80211, United States of America",
+        "address_line1": "Patzcuaro's Mexican Restaurant",
+        "address_line2": "2616 West 32nd Avenue, Denver, CO 80211, United States of America",
+        "categories": [
+          "catering",
+          "catering.restaurant",
+          "catering.restaurant.mexican"
+        ],
+        "details": [
+          "details",
+          "details.catering",
+          "details.contact"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database Licence",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Patzcuaro's Mexican Restaurant",
+            "phone": "+1 303 455 4389",
+            "osm_id": 3054820847,
+            "amenity": "restaurant",
+            "cuisine": "mexican",
+            "website": "http://www.patzcuaros.com/",
+            "osm_type": "n",
+            "addr:city": "Denver",
+            "addr:state": "CO",
+            "addr:street": "West 32nd Avenue",
+            "addr:postcode": 80211,
+            "opening_hours": "11:00-23:00",
+            "addr:housenumber": 2616
+          }
+        },
+        "place_id": "51e51192bb3e415ac059d2af7e6484e14340f00103f901efdd14b60000000092031e5061747a637561726f2773204d65786963616e2052657374617572616e74"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.01945389999999,
+          39.76185280023459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Linger Restaurant",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Colorado",
+        "city": "Denver",
+        "postcode": "80211",
+        "district": "Highland",
+        "street": "West 30th Avenue",
+        "housenumber": "2030",
+        "lon": -105.0115029,
+        "lat": 39.7594966,
+        "state_code": "CO",
+        "formatted": "Linger Restaurant, 2030 West 30th Avenue, Denver, CO 80211, United States of America",
+        "address_line1": "Linger Restaurant",
+        "address_line2": "2030 West 30th Avenue, Denver, CO 80211, United States of America",
+        "categories": [
+          "catering",
+          "catering.restaurant",
+          "gluten_free",
+          "internet_access",
+          "internet_access.free",
+          "vegan",
+          "vegetarian",
+          "wheelchair",
+          "wheelchair.yes"
+        ],
+        "details": [
+          "details",
+          "details.catering",
+          "details.contact",
+          "details.facilities",
+          "details.payment"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database Licence",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Linger Restaurant",
+            "phone": "+1-303-993-3120",
+            "osm_id": 2676225069,
+            "amenity": "restaurant",
+            "organic": "yes",
+            "toilets": "yes",
+            "website": "http://lingerdenver.com/",
+            "osm_type": "n",
+            "addr:city": "Denver",
+            "cocktails": "yes",
+            "addr:state": "CO",
+            "diet:vegan": "yes",
+            "drink:beer": "yes",
+            "drink:wine": "yes",
+            "wheelchair": "yes",
+            "addr:street": "West 30th Avenue",
+            "happy_hours": "Tu-Fr 16:00-18:30",
+            "reservation": "recommended",
+            "drink:coffee": "yes",
+            "drink:liquor": "yes",
+            "addr:postcode": 80211,
+            "opening_hours": "Mo 17:00-22:00; Tu-Th 11:30-14:30, 17:00-22:00; Fr 11:30-14:30, 17:00-23:00; Sa, Su 10:00-14:30, 17:00-23:00",
+            "toilets:unisex": "yes",
+            "diet:vegetarian": "yes",
+            "internet_access": "wlan",
+            "outdoor_seating": "yes",
+            "addr:housenumber": 2030,
+            "diet:gluten_free": "yes",
+            "toilets:wheelchair": "yes",
+            "internet_access:fee": "no",
+            "payment:debit_cards": "all",
+            "internet_access:ssid": "Linger Guests"
+          }
+        },
+        "place_id": "51c8d3a876bc405ac059f5b6412f37e14340f00103f9012df4839f000000009203114c696e6765722052657374617572616e74"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.01150289999998,
+          39.759496600234264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sushi Sasa",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Colorado",
+        "city": "Denver",
+        "postcode": "80202",
+        "district": "Highland",
+        "street": "15th Street",
+        "housenumber": "2401",
+        "lon": -105.009439,
+        "lat": 39.7567495,
+        "state_code": "CO",
+        "formatted": "Sushi Sasa, 2401 15th Street, Denver, CO 80202, United States of America",
+        "address_line1": "Sushi Sasa",
+        "address_line2": "2401 15th Street, Denver, CO 80202, United States of America",
+        "categories": [
+          "catering",
+          "catering.restaurant",
+          "catering.restaurant.sushi"
+        ],
+        "details": [
+          "details",
+          "details.catering",
+          "details.contact",
+          "details.facilities"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database Licence",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Sushi Sasa",
+            "phone": "+1-303-433-7272",
+            "osm_id": 3023251622,
+            "amenity": "restaurant",
+            "cuisine": "sushi",
+            "smoking": "no",
+            "website": "http://www.sushisasadenver.com/",
+            "osm_type": "n",
+            "addr:city": "Denver",
+            "addr:state": "CO",
+            "addr:street": "15th Street",
+            "addr:postcode": 80202,
+            "opening_hours": "Su 17:00-22:30; Mo-Th 11:30-14:30,17:00-22:30; Fr 11:30-14:30,17:00-23:30; Sa 17:00-23:30",
+            "addr:housenumber": 2401
+          }
+        },
+        "place_id": "51a41309a69a405ac0596a62e92adde04340f00103f901a62833b40000000092030a53757368692053617361"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.00943899999999,
+          39.75674950023388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Kitchen Next Door",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Colorado",
+        "city": "Denver",
+        "postcode": "80202",
+        "suburb": "16th Street Mall",
+        "street": "Wynkoop Street",
+        "housenumber": "1701",
+        "lon": -105.00077786832,
+        "lat": 39.75280295,
+        "state_code": "CO",
+        "formatted": "The Kitchen Next Door, 1701 Wynkoop Street, Denver, CO 80202, United States of America",
+        "address_line1": "The Kitchen Next Door",
+        "address_line2": "1701 Wynkoop Street, Denver, CO 80202, United States of America",
+        "categories": [
+          "catering",
+          "catering.restaurant",
+          "gluten_free",
+          "vegan",
+          "vegetarian",
+          "wheelchair",
+          "wheelchair.yes"
+        ],
+        "details": [
+          "details",
+          "details.catering",
+          "details.contact",
+          "details.facilities"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database Licence",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "The Kitchen Next Door",
+            "room": "retail",
+            "level": 0,
+            "phone": "+1-720-460-3730",
+            "indoor": "room",
+            "osm_id": 810060336,
+            "amenity": "restaurant",
+            "cuisine": "american;burger;sandwich;salad",
+            "organic": "yes",
+            "toilets": "yes",
+            "website": "https://www.nextdooreatery.com/location/union-station/",
+            "osm_type": "w",
+            "addr:city": "Denver",
+            "cocktails": "yes",
+            "addr:state": "CO",
+            "diet:vegan": "yes",
+            "drink:beer": "yes",
+            "drink:wine": "yes",
+            "wheelchair": "yes",
+            "addr:street": "Wynkoop Street",
+            "happy_hours": "Mo-Fr 15:00-18:00",
+            "drink:coffee": "yes",
+            "addr:postcode": 80202,
+            "opening_hours": "Fr, Sa 11:00-23:00; Mo-Th, Su 11:00-22:00",
+            "toilets:unisex": "yes",
+            "diet:vegetarian": "yes",
+            "outdoor_seating": "yes",
+            "addr:housenumber": 1701,
+            "diet:gluten_free": "yes",
+            "toilets:wheelchair": "yes",
+            "toilets:handwashing": "yes"
+          }
+        },
+        "place_id": "51dfc064960d405ac05995da0ee05be04340f00102f901308a483000000000920315546865204b69746368656e204e65787420446f6f72"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.00082931365203,
+          39.75280380940709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thirsty Lion Gastropub & Grill",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Colorado",
+        "city": "Denver",
+        "postcode": "80202",
+        "suburb": "16th Street Mall",
+        "street": "Wynkoop Street",
+        "housenumber": "1605",
+        "lon": -105.0008695,
+        "lat": 39.7522965,
+        "state_code": "CO",
+        "formatted": "Thirsty Lion Gastropub & Grill, 1605 Wynkoop Street, Denver, CO 80202, United States of America",
+        "address_line1": "Thirsty Lion Gastropub & Grill",
+        "address_line2": "1605 Wynkoop Street, Denver, CO 80202, United States of America",
+        "categories": [
+          "catering",
+          "catering.restaurant"
+        ],
+        "details": [
+          "details",
+          "details.catering",
+          "details.contact"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database Licence",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Thirsty Lion Gastropub & Grill",
+            "phone": "+1 303 623 0316",
+            "osm_id": 2838836938,
+            "amenity": "restaurant",
+            "cuisine": "gastropub",
+            "website": "https://www.thirstyliongastropub.com/colorado",
+            "osm_type": "n",
+            "addr:city": "Denver",
+            "addr:state": "CO",
+            "addr:street": "Wynkoop Street",
+            "addr:postcode": 80202,
+            "opening_hours": "Mo-Th 11:00-23:00; Fr 11:00-23:59; Sa 10:00-23:59; Su 10:00-23:00",
+            "addr:housenumber": 1605
+          }
+        },
+        "place_id": "511684f23e0e405ac059d6b270404be04340f00103f901ca3635a90000000092031e54686972737479204c696f6e2047617374726f7075622026204772696c6c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.0008695,
+          39.75229650023327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mercury Cafe",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Colorado",
+        "city": "Denver",
+        "postcode": "80205",
+        "district": "Five Points",
+        "street": "California Street",
+        "housenumber": "2199",
+        "lon": -104.9852573,
+        "lat": 39.7508062,
+        "state_code": "CO",
+        "formatted": "Mercury Cafe, 2199 California Street, Denver, CO 80205, United States of America",
+        "address_line1": "Mercury Cafe",
+        "address_line2": "2199 California Street, Denver, CO 80205, United States of America",
+        "categories": [
+          "catering",
+          "catering.restaurant",
+          "catering.restaurant.american",
+          "vegan",
+          "vegetarian"
+        ],
+        "details": [
+          "details",
+          "details.catering",
+          "details.contact"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database Licence",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mercury Cafe",
+            "email": "contact@mercurycafe.com",
+            "phone": "+1-303-294-9258",
+            "osm_id": 1430675587,
+            "amenity": "restaurant",
+            "cuisine": "american",
+            "website": "http://mercurycafe.com/",
+            "osm_type": "n",
+            "addr:city": "Denver",
+            "addr:state": "CO",
+            "diet:vegan": "yes",
+            "addr:street": "California Street",
+            "description": "The Mercury Cafe is powered by the Wind and the Sun. We serve Local, Organic Food, and Community is our purpose.",
+            "addr:postcode": 80205,
+            "opening_hours": "Su 09:00-01:00; Tu-Fr 17:30-02:00; Sa 09:00-02:00",
+            "diet:vegetarian": "yes",
+            "addr:housenumber": 2199
+          }
+        },
+        "place_id": "514b69a2740e3f5ac05948d1e56a1ae04340f00103f901836046550000000092030c4d6572637572792043616665"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.98525729999999,
+          39.75080620023306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tables",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Colorado",
+        "city": "Denver",
+        "postcode": "80207",
+        "district": "South Park Hill",
+        "street": "Kearney Street",
+        "housenumber": "2267",
+        "lon": -104.917818,
+        "lat": 39.750494,
+        "state_code": "CO",
+        "formatted": "Tables, 2267 Kearney Street, Denver, CO 80207, United States of America",
+        "address_line1": "Tables",
+        "address_line2": "2267 Kearney Street, Denver, CO 80207, United States of America",
+        "categories": [
+          "catering",
+          "catering.restaurant",
+          "catering.restaurant.american"
+        ],
+        "details": [
+          "details",
+          "details.catering",
+          "details.contact"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database Licence",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Tables",
+            "phone": "+1-303-388-0299",
+            "osm_id": 967339744,
+            "amenity": "restaurant",
+            "cuisine": "american",
+            "website": "http://www.tablesonkearney.com",
+            "osm_type": "n",
+            "addr:city": "Denver",
+            "addr:state": "CO",
+            "addr:street": "Kearney Street",
+            "addr:postcode": 80207,
+            "opening_hours": "Tu-Sa 17:00-21:30, Su-Mo closed",
+            "addr:housenumber": 2267
+          }
+        },
+        "place_id": "51866bb587bd3a5ac0592b6cf92f10e04340f00103f901e06ea839000000009203065461626c6573"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.91781799999998,
+          39.750494000233026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "D'Corazon",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Colorado",
+        "city": "Denver",
+        "postcode": "80202",
+        "suburb": "16th Street Mall",
+        "street": "Blake Street",
+        "housenumber": "1530",
+        "lon": -104.9995262,
+        "lat": 39.7500386,
+        "state_code": "CO",
+        "formatted": "D'Corazon, 1530 Blake Street, Denver, CO 80202, United States of America",
+        "address_line1": "D'Corazon",
+        "address_line2": "1530 Blake Street, Denver, CO 80202, United States of America",
+        "categories": [
+          "catering",
+          "catering.restaurant",
+          "catering.restaurant.mexican",
+          "wheelchair",
+          "wheelchair.yes"
+        ],
+        "details": [
+          "details",
+          "details.catering",
+          "details.contact",
+          "details.facilities"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database Licence",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "D'Corazon",
+            "phone": "+17209048226",
+            "osm_id": 1333952029,
+            "amenity": "restaurant",
+            "cuisine": "mexican",
+            "website": "http://www.dcorazonrestaurant.com",
+            "osm_type": "n",
+            "addr:city": "Denver",
+            "addr:unit": "C",
+            "addr:state": "CO",
+            "wheelchair": "yes",
+            "addr:street": "Blake Street",
+            "addr:postcode": 80202,
+            "opening_hours": "Mo-Th 11:00-21:00; Fr 11:00-22:00; Sa 11:00-22:00; Su off",
+            "outdoor_seating": "no",
+            "addr:housenumber": 1530,
+            "toilets:wheelchair": "yes"
+          }
+        },
+        "place_id": "51b11fbd3cf83f5ac0597e5ecd4301e04340f00103f9011d7e824f000000009203094427436f72617a6f6e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.9995262,
+          39.75003860023297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cake Crumbs",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Colorado",
+        "city": "Denver",
+        "postcode": "80207",
+        "district": "South Park Hill",
+        "street": "Kearney Street",
+        "housenumber": "2216",
+        "lon": -104.917254,
+        "lat": 39.7497456,
+        "state_code": "CO",
+        "formatted": "Cake Crumbs, 2216 Kearney Street, Denver, CO 80207, United States of America",
+        "address_line1": "Cake Crumbs",
+        "address_line2": "2216 Kearney Street, Denver, CO 80207, United States of America",
+        "categories": [
+          "catering",
+          "catering.restaurant"
+        ],
+        "details": [
+          "details",
+          "details.catering",
+          "details.contact"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database Licence",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Cake Crumbs",
+            "phone": "+1-303-861-4912",
+            "osm_id": 2127052982,
+            "amenity": "restaurant",
+            "cuisine": "bakery",
+            "website": "https://www.cake-crumbs.com/",
+            "osm_type": "n",
+            "addr:city": "Denver",
+            "addr:state": "CO",
+            "addr:street": "Kearney Street",
+            "addr:postcode": 80207,
+            "opening_hours": "Mo-Sa 06:00-18:00, Su 07:00-16:00",
+            "addr:housenumber": 2216
+          }
+        },
+        "place_id": "5104081f4ab43a5ac059fda8f0a9f7df4340f00103f901b640c87e0000000092030b43616b65204372756d6273"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.91725400000001,
+          39.749745600232906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oblio's Pizzeria",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Colorado",
+        "city": "Denver",
+        "postcode": "80207",
+        "district": "South Park Hill",
+        "street": "East 22nd Avenue",
+        "housenumber": "6115",
+        "lon": -104.917003,
+        "lat": 39.7493956,
+        "state_code": "CO",
+        "formatted": "Oblio's Pizzeria, 6115 East 22nd Avenue, Denver, CO 80207, United States of America",
+        "address_line1": "Oblio's Pizzeria",
+        "address_line2": "6115 East 22nd Avenue, Denver, CO 80207, United States of America",
+        "categories": [
+          "catering",
+          "catering.restaurant",
+          "catering.restaurant.pizza"
+        ],
+        "details": [
+          "details",
+          "details.catering",
+          "details.contact",
+          "details.facilities"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database Licence",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Oblio's Pizzeria",
+            "phone": "+1-303-321-1511",
+            "osm_id": 919915608,
+            "amenity": "restaurant",
+            "cuisine": "pizza",
+            "website": "https://www.obliospizza.com/",
+            "delivery": "yes",
+            "osm_type": "n",
+            "addr:city": "Denver",
+            "addr:state": "CO",
+            "addr:street": "East 22nd Avenue",
+            "addr:postcode": 80207,
+            "opening_hours": "Su-Sa 17:00-21:00",
+            "addr:housename": "22nd & Kearney",
+            "addr:housenumber": 6115
+          }
+        },
+        "place_id": "515dd5592db03a5ac0591b62ed31ecdf4340f00103f90158ccd436000000009203104f626c696f27732050697a7a65726961"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.91700299999998,
+          39.749395600232866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mellow Mushroom",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Colorado",
+        "city": "Denver",
+        "postcode": "80202",
+        "suburb": "16th Street Mall",
+        "street": "16th Street Mall",
+        "housenumber": "1201",
+        "lon": -104.9966794,
+        "lat": 39.748887,
+        "state_code": "CO",
+        "formatted": "Mellow Mushroom, 1201 16th Street Mall, Denver, CO 80202, United States of America",
+        "address_line1": "Mellow Mushroom",
+        "address_line2": "1201 16th Street Mall, Denver, CO 80202, United States of America",
+        "categories": [
+          "catering",
+          "catering.restaurant",
+          "catering.restaurant.pizza",
+          "wheelchair",
+          "wheelchair.yes"
+        ],
+        "details": [
+          "details",
+          "details.catering",
+          "details.contact",
+          "details.facilities"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database Licence",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mellow Mushroom",
+            "brand": "Mellow Mushroom",
+            "phone": "+17203289114",
+            "osm_id": 892574571,
+            "amenity": "restaurant",
+            "cuisine": "pizza",
+            "website": "https://mellowmushroom.com/location/co-denver-1201-16th-street-suite-108-80202/",
+            "delivery": "yes",
+            "osm_type": "n",
+            "addr:city": "Denver",
+            "addr:unit": 108,
+            "addr:state": "CO",
+            "wheelchair": "yes",
+            "addr:street": "16th Street Mall",
+            "addr:postcode": 80202,
+            "opening_hours": "Su-Th 11:00-22:00; Fr-Sa 11:00-23:59",
+            "brand:wikidata": "Q17021360",
+            "brand:wikipedia": "en:Mellow Mushroom",
+            "addr:housenumber": 1201
+          }
+        },
+        "place_id": "5134e66498c93f5ac0591e337b87dbdf4340f00103f9016b9b33350000000092030f4d656c6c6f77204d757368726f6f6d"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.9966794,
+          39.748887000232784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ocean Prime",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Colorado",
+        "city": "Denver",
+        "postcode": "80202",
+        "district": "Lower Downtown",
+        "street": "Larimer Street",
+        "housenumber": "1465",
+        "lon": -104.9989036,
+        "lat": 39.7482335,
+        "state_code": "CO",
+        "formatted": "Ocean Prime, 1465 Larimer Street, Denver, CO 80202, United States of America",
+        "address_line1": "Ocean Prime",
+        "address_line2": "1465 Larimer Street, Denver, CO 80202, United States of America",
+        "categories": [
+          "catering",
+          "catering.restaurant",
+          "catering.restaurant.seafood",
+          "vegetarian",
+          "wheelchair",
+          "wheelchair.yes"
+        ],
+        "details": [
+          "details",
+          "details.catering",
+          "details.contact",
+          "details.facilities"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database Licence",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Ocean Prime",
+            "phone": "+1-303-825-3663",
+            "osm_id": 1393672685,
+            "amenity": "restaurant",
+            "cuisine": "seafood",
+            "website": "https://www.ocean-prime.com",
+            "osm_type": "n",
+            "addr:city": "Denver",
+            "addr:state": "CO",
+            "diet:vegan": "no",
+            "wheelchair": "yes",
+            "addr:street": "Larimer Street",
+            "description": "OCEAN PRIME is a modern American restaurant and lounge from renowned restaurateur Cameron Mitchell.",
+            "addr:postcode": 80202,
+            "opening_hours": "Mo-Th 16:00-22:00, Fr,Sa 16:00-23:00, Su 16:00-21:00",
+            "diet:vegetarian": "limited",
+            "addr:housenumber": 1465,
+            "diet:pescetarian": "yes"
+          }
+        },
+        "place_id": "51d3765d09ee3f5ac059b1a2861dc6df4340f00103f901edc111530000000092030b4f6365616e205072696d65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.99890359999999,
+          39.74823350023269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Modern Market Eatery",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Colorado",
+        "city": "Denver",
+        "postcode": "80202",
+        "suburb": "16th Street Mall",
+        "street": "16th Street Mall",
+        "housenumber": "900",
+        "lon": -104.9941967,
+        "lat": 39.746527,
+        "state_code": "CO",
+        "formatted": "Modern Market Eatery, 900 16th Street Mall, Denver, CO 80202, United States of America",
+        "address_line1": "Modern Market Eatery",
+        "address_line2": "900 16th Street Mall, Denver, CO 80202, United States of America",
+        "categories": [
+          "catering",
+          "catering.restaurant",
+          "catering.restaurant.american",
+          "wheelchair",
+          "wheelchair.yes"
+        ],
+        "details": [
+          "details",
+          "details.catering",
+          "details.contact",
+          "details.facilities"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database Licence",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Modern Market Eatery",
+            "phone": "+13035340190",
+            "osm_id": 3023140385,
+            "amenity": "restaurant",
+            "cuisine": "american",
+            "smoking": "no",
+            "website": "https://www.modernmarket.com/locationDetails/42704",
+            "delivery": "yes",
+            "osm_type": "n",
+            "takeaway": "yes",
+            "addr:city": "Denver",
+            "addr:state": "CO",
+            "wheelchair": "yes",
+            "addr:street": "16th Street Mall",
+            "addr:postcode": 80202,
+            "opening_hours": "07:00-20:00",
+            "addr:housenumber": 900
+          }
+        },
+        "place_id": "51a11232eba03f5ac0592bca5d328edf4340f00103f901217631b4000000009203144d6f6465726e204d61726b657420456174657279"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.99419669999999,
+          39.74652700023247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "WaterCourse Foods",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Colorado",
+        "city": "Denver",
+        "postcode": "80203",
+        "district": "North Capitol Hill",
+        "street": "East 17th Avenue",
+        "housenumber": "837",
+        "lon": -104.9765356,
+        "lat": 39.7434499,
+        "state_code": "CO",
+        "formatted": "WaterCourse Foods, 837 East 17th Avenue, Denver, CO 80203, United States of America",
+        "address_line1": "WaterCourse Foods",
+        "address_line2": "837 East 17th Avenue, Denver, CO 80203, United States of America",
+        "categories": [
+          "catering",
+          "catering.restaurant",
+          "internet_access",
+          "internet_access.free",
+          "vegan",
+          "vegetarian",
+          "wheelchair",
+          "wheelchair.yes"
+        ],
+        "details": [
+          "details",
+          "details.catering",
+          "details.contact",
+          "details.facilities"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database Licence",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "WaterCourse Foods",
+            "email": "info@watercoursefoods.com",
+            "phone": "+1-303-832-7313",
+            "osm_id": 1001230363,
+            "amenity": "restaurant",
+            "toilets": "yes",
+            "website": "https://watercoursefoods.com/",
+            "osm_type": "n",
+            "takeaway": "yes",
+            "addr:city": "Denver",
+            "cocktails": "yes",
+            "drink:tea": "yes",
+            "fireplace": "yes",
+            "addr:state": "CO",
+            "diet:vegan": "yes",
+            "drink:beer": "yes",
+            "drink:wine": "yes",
+            "wheelchair": "yes",
+            "addr:street": "East 17th Avenue",
+            "happy_hours": "Su-Sa 15:00-18:00; Th-Sa 22:00-23:00",
+            "reservation": "required",
+            "drink:coffee": "yes",
+            "drink:liquor": "yes",
+            "addr:postcode": 80203,
+            "opening_hours": "Th-Sa 07:00-23:00; Mo-We, Su 07:00-22:00",
+            "toilets:unisex": "no",
+            "diet:vegetarian": "yes",
+            "internet_access": "wlan",
+            "addr:housenumber": 837,
+            "toilets:wheelchair": "yes",
+            "internet_access:fee": "no",
+            "internet_access:ssid": "WCGuest"
+          }
+        },
+        "place_id": "514d582c8f7f3e5ac05903dbc75d29df4340f00103f9011b90ad3b000000009203115761746572436f7572736520466f6f6473"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.97653559999999,
+          39.74344990023203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yard House",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Colorado",
+        "city": "Denver",
+        "postcode": "80202",
+        "district": "Central Business District",
+        "street": "Court Place",
+        "housenumber": "1555",
+        "lon": -104.989545,
+        "lat": 39.742905,
+        "state_code": "CO",
+        "formatted": "Yard House, 1555 Court Place, Denver, CO 80202, United States of America",
+        "address_line1": "Yard House",
+        "address_line2": "1555 Court Place, Denver, CO 80202, United States of America",
+        "categories": [
+          "catering",
+          "catering.restaurant",
+          "catering.restaurant.american",
+          "internet_access",
+          "wheelchair",
+          "wheelchair.yes"
+        ],
+        "details": [
+          "details",
+          "details.catering",
+          "details.contact",
+          "details.facilities"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database Licence",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Yard House",
+            "brand": "Yard House",
+            "phone": "+1-303-572-9273",
+            "osm_id": 1158382697,
+            "alcohol": "yes",
+            "amenity": "restaurant",
+            "cuisine": "american",
+            "website": "https://www.yardhouse.com/locations/co/denver/denver-sheraton-downtown/8329",
+            "osm_type": "n",
+            "addr:city": "Denver",
+            "addr:state": "CO",
+            "wheelchair": "yes",
+            "addr:street": "Court Place",
+            "addr:postcode": 80202,
+            "opening_hours": "Mo-Th 11:00-1:00; Fr 11:00-1:30; Sa 9:00-1:30; Su 9:00-1:00",
+            "brand:wikidata": "Q21189156",
+            "brand:wikipedia": "en:Yard House",
+            "internet_access": "wlan",
+            "outdoor_seating": "yes",
+            "addr:housenumber": 1555
+          }
+        },
+        "place_id": "51e73a8db4543f5ac059fd03d48217df4340f00103f90169840b450000000092030a5961726420486f757365"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.989545,
+          39.742905000231964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Noodles & Company",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Colorado",
+        "city": "Denver",
+        "postcode": "80202",
+        "suburb": "16th Street Mall",
+        "street": "16th Street Mall",
+        "housenumber": "303",
+        "lon": -104.9887055,
+        "lat": 39.7427384,
+        "state_code": "CO",
+        "formatted": "Noodles & Company, 303 16th Street Mall, Denver, CO 80202, United States of America",
+        "address_line1": "Noodles & Company",
+        "address_line2": "303 16th Street Mall, Denver, CO 80202, United States of America",
+        "categories": [
+          "catering",
+          "catering.restaurant",
+          "internet_access",
+          "wheelchair",
+          "wheelchair.yes"
+        ],
+        "details": [
+          "details",
+          "details.catering",
+          "details.contact",
+          "details.facilities"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database Licence",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Noodles & Company",
+            "brand": "Noodles & Company",
+            "phone": "+1-303-623-1700",
+            "osm_id": 1431147673,
+            "amenity": "restaurant",
+            "cuisine": "pasta",
+            "website": "https://locations.noodles.com/co/denver/303-16th-street.html",
+            "osm_type": "n",
+            "addr:city": "Denver",
+            "addr:unit": 150,
+            "addr:state": "CO",
+            "wheelchair": "yes",
+            "addr:street": "16th Street Mall",
+            "addr:postcode": 80202,
+            "opening_hours": "Mo-Su 10:30-21:00",
+            "brand:wikidata": "Q7049673",
+            "brand:wikipedia": "en:Noodles & Company",
+            "internet_access": "wlan",
+            "addr:housenumber": 303
+          }
+        },
+        "place_id": "5104f86ef3463f5ac059613d490d12df4340f00103f90199944d55000000009203114e6f6f646c6573202620436f6d70616e79"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.98870549999998,
+          39.742738400231936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Goods Neighborhood Kitchen and Bar",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Colorado",
+        "city": "Denver",
+        "postcode": "80206",
+        "street": "East Colfax Avenue",
+        "housenumber": "2550",
+        "lon": -104.95639568321714,
+        "lat": 39.7398653,
+        "state_code": "CO",
+        "formatted": "The Goods Neighborhood Kitchen and Bar, 2550 East Colfax Avenue, Denver, CO 80206, United States of America",
+        "address_line1": "The Goods Neighborhood Kitchen and Bar",
+        "address_line2": "2550 East Colfax Avenue, Denver, CO 80206, United States of America",
+        "categories": [
+          "building",
+          "building.catering",
+          "building.commercial",
+          "catering",
+          "catering.restaurant",
+          "catering.restaurant.american",
+          "vegetarian",
+          "wheelchair",
+          "wheelchair.yes"
+        ],
+        "details": [
+          "details",
+          "details.catering",
+          "details.contact",
+          "details.facilities",
+          "details.payment",
+          "details.production"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database Licence",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "The Goods Neighborhood Kitchen and Bar",
+            "craft": "caterer",
+            "email": "info@thegoodsrestaurant.com",
+            "phone": "+1-303-355-5445",
+            "osm_id": 323174031,
+            "amenity": "restaurant",
+            "cuisine": "american",
+            "organic": "yes",
+            "toilets": "yes",
+            "website": "http://thegoodsrestaurant.com/",
+            "building": "retail",
+            "osm_type": "w",
+            "takeaway": "yes",
+            "addr:city": "Denver",
+            "addr:state": "CO",
+            "drink:beer": "yes",
+            "drink:wine": "yes",
+            "wheelchair": "yes",
+            "addr:street": "East Colfax Avenue",
+            "description": "bar open Fr-Sa until 02:00",
+            "happy_hours": "yes",
+            "reservation": "yes",
+            "drink:coffee": "yes",
+            "drink:liquor": "yes",
+            "addr:postcode": 80206,
+            "opening_hours": "Mo-Fr 11:00-22:00; Sa-Su 10:00-22:00",
+            "diet:vegetarian": "yes",
+            "outdoor_seating": "yes",
+            "addr:housenumber": 2550,
+            "toilets:wheelchair": "yes",
+            "payment:debit_cards": "all"
+          }
+        },
+        "place_id": "51ac7e4da5353d5ac059b941c09db4de4340f00102f9018f3e43130000000092032654686520476f6f6473204e65696768626f72686f6f64204b69746368656e20616e6420426172"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.95639927451947,
+          39.739886969447475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "City O' City",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Colorado",
+        "city": "Denver",
+        "postcode": "80203",
+        "district": "Capitol Hill",
+        "street": "East 13th Avenue",
+        "housenumber": "206",
+        "lon": -104.9846706,
+        "lat": 39.7366895,
+        "state_code": "CO",
+        "formatted": "City O' City, 206 East 13th Avenue, Denver, CO 80203, United States of America",
+        "address_line1": "City O' City",
+        "address_line2": "206 East 13th Avenue, Denver, CO 80203, United States of America",
+        "categories": [
+          "catering",
+          "catering.restaurant",
+          "internet_access",
+          "internet_access.free",
+          "vegan",
+          "vegetarian",
+          "wheelchair",
+          "wheelchair.yes"
+        ],
+        "details": [
+          "details",
+          "details.catering",
+          "details.contact",
+          "details.facilities"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database Licence",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "City O' City",
+            "phone": "+1-303-831-6443",
+            "osm_id": 1001230366,
+            "amenity": "restaurant",
+            "organic": "yes",
+            "toilets": "yes",
+            "website": "https://cityocitydenver.com/",
+            "alt_name": "City O City",
+            "osm_type": "n",
+            "takeaway": "yes",
+            "addr:city": "Denver",
+            "drink:tea": "yes",
+            "addr:state": "CO",
+            "diet:vegan": "yes",
+            "drink:beer": "yes",
+            "drink:wine": "yes",
+            "wheelchair": "yes",
+            "addr:street": "East 13th Avenue",
+            "happy_hours": "Mo-Su 15:00-18:00",
+            "reservation": "yes",
+            "drink:coffee": "yes",
+            "addr:postcode": 80203,
+            "opening_hours": "Mo-Su 07:00-02:00",
+            "toilets:unisex": "no",
+            "diet:vegetarian": "yes",
+            "addr:housenumber": 206,
+            "toilets:wheelchair": "yes",
+            "internet_access:fee": "no"
+          }
+        },
+        "place_id": "514b15d6d7043f5ac05949666fd74bde4340f00103f9011e90ad3b0000000092030c43697479204f272043697479"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.9846706,
+          39.73668950023109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Buckhorn Exchange",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Colorado",
+        "city": "Denver",
+        "postcode": "80204",
+        "district": "Lincoln Park",
+        "street": "Osage Street",
+        "housenumber": "1000",
+        "lon": -105.0051124,
+        "lat": 39.7322529,
+        "state_code": "CO",
+        "formatted": "Buckhorn Exchange, 1000 Osage Street, Denver, CO 80204, United States of America",
+        "address_line1": "Buckhorn Exchange",
+        "address_line2": "1000 Osage Street, Denver, CO 80204, United States of America",
+        "categories": [
+          "catering",
+          "catering.restaurant",
+          "catering.restaurant.steak_house"
+        ],
+        "details": [
+          "details",
+          "details.catering",
+          "details.contact",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database Licence",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Buckhorn Exchange",
+            "phone": "+1 303 534 9505",
+            "osm_id": 519549594,
+            "amenity": "restaurant",
+            "cuisine": "steak_house",
+            "website": "http://www.buckhorn.com",
+            "osm_type": "n",
+            "wikidata": "Q60761501",
+            "addr:city": "Denver",
+            "wikipedia": "en:Buckhorn Exchange",
+            "addr:state": "CO",
+            "addr:street": "Osage Street",
+            "addr:postcode": 80204,
+            "addr:housenumber": 1000
+          }
+        },
+        "place_id": "5176b3f5c253405ac0590f728976badd4340f00103f9019ab2f71e000000009203114275636b686f726e2045786368616e6765"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.0051124,
+          39.732252900230485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aloy Thai Eatery - Capitol Hill",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Colorado",
+        "city": "Denver",
+        "postcode": "80203",
+        "district": "Capitol Hill",
+        "street": "East 7th Avenue",
+        "housenumber": "211",
+        "lon": -104.9845556,
+        "lat": 39.72748,
+        "state_code": "CO",
+        "formatted": "Aloy Thai Eatery - Capitol Hill, 211 East 7th Avenue, Denver, CO 80203, United States of America",
+        "address_line1": "Aloy Thai Eatery - Capitol Hill",
+        "address_line2": "211 East 7th Avenue, Denver, CO 80203, United States of America",
+        "categories": [
+          "catering",
+          "catering.restaurant"
+        ],
+        "details": [
+          "details",
+          "details.contact",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database Licence",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Aloy Thai Eatery - Capitol Hill",
+            "image": "https://photo.isu.pub/bbqchickenbc/photo_large.jpg",
+            "phone": "720-912-3453",
+            "osm_id": 10197030389,
+            "amenity": "restaurant",
+            "website": "https://www.aloyeatery.com",
+            "osm_type": "n",
+            "addr:city": "Denver",
+            "addr:state": "CO",
+            "addr:street": "E 7th Ave",
+            "description": "Aloy Thai Eatery, a new fast casual restaurant from the acclaimed Aloy Thai Cuisine and Aloy Modern Thai family, offering made-from-scratch Thai fare.",
+            "happy_hours": "Mon to Fri 9:00AM-6:00PM",
+            "addr:country": "US",
+            "addr:postcode": 80203,
+            "opening_hours": "Mo-Fr 09:00-18:00",
+            "addr:housenumber": 211
+          }
+        },
+        "place_id": "51fec57df5023f5ac05995bd8c101edd4340f00103f901f555ca5f0200000092031f416c6f79205468616920456174657279202d2043617069746f6c2048696c6c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.9845556,
+          39.72748000022981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fruition",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Colorado",
+        "city": "Denver",
+        "postcode": "80218",
+        "district": "Alamo Placita",
+        "street": "East 6th Avenue",
+        "housenumber": "1313",
+        "lon": -104.971313,
+        "lat": 39.7257132,
+        "state_code": "CO",
+        "formatted": "Fruition, 1313 East 6th Avenue, Denver, CO 80218, United States of America",
+        "address_line1": "Fruition",
+        "address_line2": "1313 East 6th Avenue, Denver, CO 80218, United States of America",
+        "categories": [
+          "catering",
+          "catering.restaurant",
+          "catering.restaurant.american",
+          "vegetarian",
+          "wheelchair",
+          "wheelchair.yes"
+        ],
+        "details": [
+          "details",
+          "details.catering",
+          "details.contact",
+          "details.facilities"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database Licence",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Fruition",
+            "phone": "+1-303-831-1962",
+            "osm_id": 1999204224,
+            "amenity": "restaurant",
+            "cuisine": "american",
+            "website": "http://fruitionrestaurant.com/",
+            "osm_type": "n",
+            "addr:city": "Denver",
+            "drink:tea": "yes",
+            "addr:state": "CO",
+            "diet:vegan": "no",
+            "wheelchair": "yes",
+            "addr:street": "East 6th Avenue",
+            "reservation": "yes",
+            "drink:coffee": "yes",
+            "addr:postcode": 80218,
+            "opening_hours": "Mo-Sa 05:00-10:00; Su 17:00-21:00",
+            "diet:vegetarian": "limited",
+            "addr:housenumber": 1313
+          }
+        },
+        "place_id": "517f4b00fe293e5ac05979a18e2be4dc4340f00103f901806f2977000000009203084672756974696f6e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.971313,
+          39.72571320022957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Angelo's Taverna",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Colorado",
+        "city": "Denver",
+        "postcode": "80203",
+        "district": "Alamo Placita",
+        "street": "East 6th Avenue",
+        "housenumber": "620",
+        "lon": -104.9791284,
+        "lat": 39.7254911,
+        "state_code": "CO",
+        "formatted": "Angelo's Taverna, 620 East 6th Avenue, Denver, CO 80203, United States of America",
+        "address_line1": "Angelo's Taverna",
+        "address_line2": "620 East 6th Avenue, Denver, CO 80203, United States of America",
+        "categories": [
+          "catering",
+          "catering.restaurant",
+          "vegetarian",
+          "wheelchair",
+          "wheelchair.yes"
+        ],
+        "details": [
+          "details",
+          "details.catering",
+          "details.contact",
+          "details.facilities",
+          "details.payment",
+          "details.production"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database Licence",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Angelo's Taverna",
+            "craft": "caterer",
+            "email": "banquets@angelosdenver.com",
+            "phone": "+1-303-744-3366",
+            "branch": "Denver",
+            "osm_id": 2833269080,
+            "amenity": "restaurant",
+            "cuisine": "seafood;pizza;oyster",
+            "organic": "yes",
+            "website": "https://angelostaverna.com/denver/",
+            "osm_type": "n",
+            "takeaway": "yes",
+            "addr:city": "Denver",
+            "cocktails": "yes",
+            "addr:state": "CO",
+            "drink:beer": "yes",
+            "drink:wine": "yes",
+            "wheelchair": "yes",
+            "addr:street": "East 6th Avenue",
+            "happy_hours": "yes",
+            "reservation": "no",
+            "drink:coffee": "yes",
+            "drink:liquor": "yes",
+            "addr:postcode": 80203,
+            "opening_hours": "Mo-We, Su 11:00-22:00; Th-Sa 11:00-00:00",
+            "diet:vegetarian": "yes",
+            "outdoor_seating": "yes",
+            "addr:housenumber": 620,
+            "payment:debit_cards": "all"
+          }
+        },
+        "place_id": "516d252a0aaa3e5ac059318372e4dcdc4340f00103f9015841e0a800000000920310416e67656c6f27732054617665726e61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.9791284,
+          39.72549110022954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brothers BBQ",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Colorado",
+        "city": "Denver",
+        "postcode": "80203",
+        "district": "Alamo Placita",
+        "street": "Washington Street",
+        "housenumber": "568",
+        "lon": -104.9783357,
+        "lat": 39.7253436,
+        "state_code": "CO",
+        "formatted": "Brothers BBQ, 568 Washington Street, Denver, CO 80203, United States of America",
+        "address_line1": "Brothers BBQ",
+        "address_line2": "568 Washington Street, Denver, CO 80203, United States of America",
+        "categories": [
+          "catering",
+          "catering.restaurant",
+          "catering.restaurant.barbecue",
+          "wheelchair",
+          "wheelchair.yes"
+        ],
+        "details": [
+          "details",
+          "details.catering",
+          "details.contact",
+          "details.facilities",
+          "details.production"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database Licence",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Brothers BBQ",
+            "craft": "caterer",
+            "phone": "+1-720-570-4227",
+            "branch": "Capitol Hill",
+            "osm_id": 2833246779,
+            "amenity": "restaurant",
+            "cuisine": "barbecue",
+            "website": "https://brothers-bbq.com/bbq-near-me/denver-capitol-hill/",
+            "osm_type": "n",
+            "takeaway": "yes",
+            "addr:city": "Denver",
+            "addr:state": "CO",
+            "drink:beer": "yes",
+            "wheelchair": "yes",
+            "addr:street": "Washington Street",
+            "drink:liquor": "yes",
+            "addr:postcode": 80203,
+            "opening_hours": "Mo-Su 10:00-22:00",
+            "outdoor_seating": "yes",
+            "addr:housenumber": 568
+          }
+        },
+        "place_id": "519700570d9d3e5ac059a0ac200fd8dc4340f00103f9013beadfa80000000092030c42726f746865727320424251"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.97833569999999,
+          39.72534360022951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Walter's303",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Colorado",
+        "city": "Denver",
+        "postcode": "80230",
+        "suburb": "Lowry Town Center",
+        "street": "Quebec Street",
+        "housenumber": "200",
+        "lon": -104.902439,
+        "lat": 39.720063,
+        "state_code": "CO",
+        "formatted": "Walter's303, 200 Quebec Street, Denver, CO 80230, United States of America",
+        "address_line1": "Walter's303",
+        "address_line2": "200 Quebec Street, Denver, CO 80230, United States of America",
+        "categories": [
+          "catering",
+          "catering.restaurant",
+          "catering.restaurant.pizza"
+        ],
+        "details": [
+          "details",
+          "details.catering",
+          "details.contact"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database Licence",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Walter's303",
+            "phone": "+1-303-284-2066",
+            "osm_id": 2837157451,
+            "amenity": "restaurant",
+            "cuisine": "pizza",
+            "website": "https://walters303.com/",
+            "osm_type": "n",
+            "addr:city": "Denver",
+            "addr:unit": 109,
+            "addr:state": "CO",
+            "addr:street": "Quebec Street",
+            "addr:postcode": 80230,
+            "opening_hours": "Su-Th 11:00-20:30; Fr-Sa 11:00-21:30",
+            "addr:housename": "Lowry Town Center",
+            "addr:housenumber": 200
+          }
+        },
+        "place_id": "51a2e8818fc1395ac05968853e062bdc4340f00103f9014b961ba90000000092030b57616c7465722773333033"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.90243899999999,
+          39.72006300022878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Postino Broadway",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Colorado",
+        "city": "Denver",
+        "postcode": "80273",
+        "street": "Broadway",
+        "housenumber": "145",
+        "lon": -104.98779160016998,
+        "lat": 39.7191471,
+        "state_code": "CO",
+        "formatted": "Postino Broadway, 145 Broadway, Denver, CO 80273, United States of America",
+        "address_line1": "Postino Broadway",
+        "address_line2": "145 Broadway, Denver, CO 80273, United States of America",
+        "categories": [
+          "building",
+          "building.catering",
+          "catering",
+          "catering.restaurant",
+          "catering.restaurant.italian",
+          "internet_access",
+          "internet_access.free",
+          "vegan",
+          "vegetarian"
+        ],
+        "details": [
+          "details",
+          "details.building",
+          "details.catering",
+          "details.contact",
+          "details.facilities"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database Licence",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Postino Broadway",
+            "phone": "+1-303-351-7000",
+            "branch": "Broadway",
+            "height": 16,
+            "osm_id": 129773367,
+            "amenity": "restaurant",
+            "cuisine": "italian",
+            "toilets": "yes",
+            "website": "https://postinowinecafe.com/",
+            "building": "yes",
+            "osm_type": "w",
+            "takeaway": "yes",
+            "diet:vegan": "limited",
+            "drink:beer": "yes",
+            "drink:wine": "yes",
+            "addr:street": "Broadway",
+            "drink:liquor": "yes",
+            "opening_hours": "Mo-Th 11:00-23:00; Fr 11:00-00:00; Sa 09:00-00:00; Su 09:00-22:00",
+            "toilets:access": "customers",
+            "toilets:unisex": "no",
+            "diet:vegetarian": "yes",
+            "internet_access": "wlan",
+            "addr:housenumber": 145,
+            "internet_access:fee": "no"
+          }
+        },
+        "place_id": "51ca5f4cfa373f5ac0595d2054030ddc4340f00102f901372fbc0700000000920310506f7374696e6f2042726f6164776179"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.98779160936752,
+          39.71914712531791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Torchy's Tacos",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Colorado",
+        "city": "Denver",
+        "postcode": "80230",
+        "street": "East Lowry Boulevard",
+        "housenumber": "63",
+        "lon": -104.9042837,
+        "lat": 39.7173447,
+        "state_code": "CO",
+        "formatted": "Torchy's Tacos, 63 East Lowry Boulevard, Denver, CO 80230, United States of America",
+        "address_line1": "Torchy's Tacos",
+        "address_line2": "63 East Lowry Boulevard, Denver, CO 80230, United States of America",
+        "categories": [
+          "catering",
+          "catering.restaurant",
+          "catering.restaurant.mexican"
+        ],
+        "details": [
+          "details",
+          "details.catering",
+          "details.contact",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database Licence",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "bar": "yes",
+            "name": "Torchy's Tacos",
+            "phone": "+1-720-797-9997",
+            "osm_id": 10672123637,
+            "amenity": "restaurant",
+            "cuisine": "mexican",
+            "website": "https://torchystacos.com/",
+            "osm_type": "n",
+            "wikidata": "Q106769573",
+            "addr:city": "Denver",
+            "addr:state": "CO",
+            "addr:street": "North Quebec Street",
+            "addr:postcode": 80230,
+            "opening_hours": "Mo-Su 10:00-22:00",
+            "addr:housenumber": 63
+          }
+        },
+        "place_id": "519473bdc8df395ac0594db87df3d1db4340f00103f901f5ae1b7c0200000092030e546f726368792773205461636f73"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.90428370000001,
+          39.71734470022839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Blossoms Restaurant & Banquets",
+        "old_name": "CenterPoint Restaurant;Emerald Grill;Windsor Gardens Inn",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Colorado",
+        "city": "Denver",
+        "postcode": "80247",
+        "street": "South Clinton Street",
+        "housenumber": "597",
+        "lon": -104.877798,
+        "lat": 39.7056631,
+        "state_code": "CO",
+        "formatted": "Blossoms Restaurant & Banquets, 597 South Clinton Street, Denver, CO 80247, United States of America",
+        "address_line1": "Blossoms Restaurant & Banquets",
+        "address_line2": "597 South Clinton Street, Denver, CO 80247, United States of America",
+        "categories": [
+          "catering",
+          "catering.restaurant",
+          "catering.restaurant.american",
+          "vegan",
+          "vegetarian",
+          "vegetarian.only",
+          "wheelchair",
+          "wheelchair.yes"
+        ],
+        "details": [
+          "details",
+          "details.catering",
+          "details.contact",
+          "details.facilities",
+          "details.payment"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database Licence",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Blossoms Restaurant & Banquets",
+            "email": "lisa_chavez@hotmail.com",
+            "phone": "+1 303-341-7480",
+            "osm_id": 2817063070,
+            "amenity": "restaurant",
+            "cuisine": "american",
+            "website": "http://www.blossomsrestaurant.com/",
+            "alt_name": "Blossoms at Windsor Gardens",
+            "old_name": "CenterPoint Restaurant;Emerald Grill;Windsor Gardens Inn",
+            "osm_type": "n",
+            "diet:halal": "no",
+            "diet:vegan": "yes",
+            "wheelchair": "yes",
+            "addr:street": "South Clinton Street",
+            "diet:kosher": "no",
+            "addr:postcode": 80247,
+            "opening_hours": "Tu-Th 11:00-20:00, Fr 11:00-21:00, Sa 11:00-20:00, Su 08:00-13:00, Mo closed",
+            "indoor_seating": "yes",
+            "diet:vegetarian": "only",
+            "outdoor_seating": "no",
+            "addr:housenumber": 597,
+            "air_conditioning": "yes",
+            "payment:debit_cards": "yes",
+            "payment:credit_cards": "yes"
+          }
+        },
+        "place_id": "51a19fa9d72d385ac059e6bb202b53da4340f00103f9019ef8e8a70000000092031e426c6f73736f6d732052657374617572616e7420262042616e7175657473"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.877798,
+          39.70566310022677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pasquini's Pizzeria",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Colorado",
+        "city": "Denver",
+        "postcode": "80223",
+        "district": "Platt Park",
+        "street": "South Broadway",
+        "housenumber": "1310",
+        "lon": -104.9871634,
+        "lat": 39.6928302,
+        "state_code": "CO",
+        "formatted": "Pasquini's Pizzeria, 1310 South Broadway, Denver, CO 80223, United States of America",
+        "address_line1": "Pasquini's Pizzeria",
+        "address_line2": "1310 South Broadway, Denver, CO 80223, United States of America",
+        "categories": [
+          "catering",
+          "catering.restaurant",
+          "catering.restaurant.italian",
+          "catering.restaurant.pizza",
+          "vegetarian",
+          "wheelchair",
+          "wheelchair.yes"
+        ],
+        "details": [
+          "details",
+          "details.catering",
+          "details.contact",
+          "details.facilities",
+          "details.production"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database Licence",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Pasquini's Pizzeria",
+            "craft": "caterer",
+            "phone": "+1-303-744-0917",
+            "osm_id": 767494370,
+            "amenity": "restaurant",
+            "cuisine": "italian;pizza",
+            "website": "http://pasquinispizzeria.com/",
+            "delivery": "yes",
+            "osm_type": "n",
+            "takeaway": "yes",
+            "wheelchair": "yes",
+            "addr:street": "South Broadway",
+            "reservation": "yes",
+            "drink:coffee": "yes",
+            "opening_hours": "Mo-Th, Su 11:00-22:00; Fr, Sa 11:00-00:00",
+            "diet:vegetarian": "yes",
+            "addr:housenumber": 1310
+          }
+        },
+        "place_id": "51b9b365af2d3f5ac059ded2f5a8aed84340f00103f901e208bf2d000000009203135061737175696e6927732050697a7a65726961"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.9871634,
+          39.692830200224975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Black Eyed Pea",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Colorado",
+        "city": "Denver",
+        "postcode": "80222",
+        "street": "South Colorado Boulevard",
+        "housenumber": "1470",
+        "lon": -104.94005429489115,
+        "lat": 39.68999085,
+        "state_code": "CO",
+        "formatted": "Black Eyed Pea, 1470 South Colorado Boulevard, Denver, CO 80222, United States of America",
+        "address_line1": "Black Eyed Pea",
+        "address_line2": "1470 South Colorado Boulevard, Denver, CO 80222, United States of America",
+        "categories": [
+          "building",
+          "building.catering",
+          "building.commercial",
+          "catering",
+          "catering.restaurant",
+          "catering.restaurant.american"
+        ],
+        "details": [
+          "details",
+          "details.building",
+          "details.catering",
+          "details.contact"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database Licence",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Black Eyed Pea",
+            "phone": "+1 303 691 3470",
+            "height": 5,
+            "osm_id": 257034847,
+            "amenity": "restaurant",
+            "cuisine": "american",
+            "website": "https://blackeyedpeacolorado.com/",
+            "building": "retail",
+            "osm_type": "w",
+            "addr:city": "Denver",
+            "addr:state": "CO",
+            "addr:street": "South Colorado Boulevard",
+            "addr:postcode": 80222,
+            "opening_hours": "11:00-22:00",
+            "addr:housenumber": 1470
+          }
+        },
+        "place_id": "512fb321bc293c5ac05994f731d451d84340f00102f9015f0a520f0000000092030e426c61636b204579656420506561"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.94004729548463,
+          39.689997219465255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pudge Bros. Pizza",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Colorado",
+        "city": "Denver",
+        "postcode": "80222",
+        "street": "South Monaco Parkway",
+        "housenumber": "2243",
+        "lon": -104.914732,
+        "lat": 39.6770024,
+        "state_code": "CO",
+        "formatted": "Pudge Bros. Pizza, 2243 South Monaco Parkway, Denver, CO 80222, United States of America",
+        "address_line1": "Pudge Bros. Pizza",
+        "address_line2": "2243 South Monaco Parkway, Denver, CO 80222, United States of America",
+        "categories": [
+          "catering",
+          "catering.restaurant",
+          "catering.restaurant.pizza"
+        ],
+        "details": [
+          "details",
+          "details.catering",
+          "details.contact"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database Licence",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Pudge Bros. Pizza",
+            "phone": "+1-303-757-7717",
+            "osm_id": 2930320378,
+            "amenity": "restaurant",
+            "cuisine": "pizza",
+            "website": "http://pudgebrospizzamonaco.com/",
+            "osm_type": "n",
+            "addr:city": "Denver",
+            "addr:state": "CO",
+            "addr:street": "South Monaco Parkway",
+            "addr:postcode": 80222,
+            "opening_hours": "Su-Th 11:00-23:00, Fr-Sa 11:00-23:59",
+            "addr:housenumber": 2243
+          }
+        },
+        "place_id": "51b22616f88a3a5ac0599622c003a8d64340f00103f901fa23a9ae0000000092031150756467652042726f732e2050697a7a61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.91473199999999,
+          39.67700240022275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Little India",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Colorado",
+        "city": "Denver",
+        "postcode": "80210",
+        "street": "South Downing Street",
+        "housenumber": "2390",
+        "lon": -104.973083,
+        "lat": 39.6732806,
+        "state_code": "CO",
+        "formatted": "Little India, 2390 South Downing Street, Denver, CO 80210, United States of America",
+        "address_line1": "Little India",
+        "address_line2": "2390 South Downing Street, Denver, CO 80210, United States of America",
+        "categories": [
+          "catering",
+          "catering.restaurant",
+          "catering.restaurant.indian"
+        ],
+        "details": [
+          "details",
+          "details.catering",
+          "details.contact"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database Licence",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Little India",
+            "phone": "+1-303-298-1939",
+            "osm_id": 2698632921,
+            "amenity": "restaurant",
+            "cuisine": "indian",
+            "website": "http://www.LittleIndiaofDenver.com",
+            "alt_name": "Little India Restaurant & Bar",
+            "osm_type": "n",
+            "addr:city": "Denver",
+            "addr:state": "CO",
+            "addr:street": "South Downing Street",
+            "addr:postcode": 80210,
+            "opening_hours": "Mo-Su 11:00-22:00",
+            "addr:housenumber": 2390
+          }
+        },
+        "place_id": "51c952ebfd463e5ac0592c7e070f2ed64340f00103f901d9ded9a00000000092030c4c6974746c6520496e646961"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.97308299999999,
+          39.67328060022223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "John Holly's Asian Bistro",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Colorado",
+        "city": "Denver",
+        "postcode": "80210",
+        "street": "South Downing Street",
+        "housenumber": "2422",
+        "lon": -104.973179,
+        "lat": 39.6726335,
+        "state_code": "CO",
+        "formatted": "John Holly's Asian Bistro, 2422 South Downing Street, Denver, CO 80210, United States of America",
+        "address_line1": "John Holly's Asian Bistro",
+        "address_line2": "2422 South Downing Street, Denver, CO 80210, United States of America",
+        "categories": [
+          "catering",
+          "catering.restaurant",
+          "catering.restaurant.asian"
+        ],
+        "details": [
+          "details",
+          "details.catering",
+          "details.contact",
+          "details.facilities"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database Licence",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "John Holly's Asian Bistro",
+            "phone": "+1-303-722-8686",
+            "osm_id": 839606714,
+            "amenity": "restaurant",
+            "cuisine": "asian",
+            "website": "http://www.JohnHollysDenver.com",
+            "delivery": "yes",
+            "osm_type": "n",
+            "takeaway": "yes",
+            "addr:city": "Denver",
+            "addr:state": "CO",
+            "addr:street": "South Downing Street",
+            "addr:postcode": 80210,
+            "opening_hours": "Mo-Th 11:00-21:30, Fr 11:00-22:30, Sa 11:30-10:30, Su 11:30-21:30",
+            "addr:housenumber": 2422
+          }
+        },
+        "place_id": "51db899290483e5ac059f5d2c2da18d64340f00103f901ba610b32000000009203194a6f686e20486f6c6c79277320417369616e2042697374726f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.973179,
+          39.67263350022214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sunny Gardens",
+        "old_name": "Sunny Garden",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Colorado",
+        "city": "Denver",
+        "postcode": "80222",
+        "street": "East Yale Avenue",
+        "housenumber": "6440",
+        "lon": -104.915119,
+        "lat": 39.6668963,
+        "state_code": "CO",
+        "formatted": "Sunny Gardens, 6440 East Yale Avenue, Denver, CO 80222, United States of America",
+        "address_line1": "Sunny Gardens",
+        "address_line2": "6440 East Yale Avenue, Denver, CO 80222, United States of America",
+        "categories": [
+          "catering",
+          "catering.restaurant",
+          "catering.restaurant.chinese"
+        ],
+        "details": [
+          "details",
+          "details.catering",
+          "details.contact"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database Licence",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Sunny Gardens",
+            "phone": "+1-303-691-8830",
+            "osm_id": 2786795974,
+            "amenity": "restaurant",
+            "cuisine": "chinese",
+            "website": "https://www.sunnygardensco.com/",
+            "alt_name": "Sunny Gardens Chinese Cuisine",
+            "old_name": "Sunny Garden",
+            "osm_type": "n",
+            "addr:city": "Denver",
+            "addr:unit": "G20C",
+            "addr:state": "CO",
+            "addr:street": "East Yale Avenue",
+            "addr:postcode": 80222,
+            "opening_hours": "Mo closed, Tu-Th 11:00-21:30, Fr 11:00-22:00, Sa 12:00-22:00, Su 12:00-21:30",
+            "addr:housenumber": 6440
+          }
+        },
+        "place_id": "51b03c484f913a5ac05911a3a3db5cd54340f00103f901c6211ba60000000092030d53756e6e792047617264656e73"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.915119,
+          39.66689630022132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pizza Hut + WingStreet",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Colorado",
+        "city": "Denver",
+        "postcode": "80222",
+        "street": "East Yale Avenue",
+        "housenumber": "6460",
+        "lon": -104.913427,
+        "lat": 39.6660328,
+        "state_code": "CO",
+        "formatted": "Pizza Hut + WingStreet, 6460 East Yale Avenue, Denver, CO 80222, United States of America",
+        "address_line1": "Pizza Hut + WingStreet",
+        "address_line2": "6460 East Yale Avenue, Denver, CO 80222, United States of America",
+        "categories": [
+          "catering",
+          "catering.restaurant",
+          "catering.restaurant.pizza"
+        ],
+        "details": [
+          "details",
+          "details.catering",
+          "details.contact"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database Licence",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Pizza Hut + WingStreet",
+            "phone": "+1-303-691-0600",
+            "osm_id": 2786795956,
+            "amenity": "restaurant",
+            "cuisine": "pizza",
+            "website": "http://pizzahut.com",
+            "osm_type": "n",
+            "addr:city": "Denver",
+            "addr:unit": "E90",
+            "addr:state": "CO",
+            "addr:street": "East Yale Avenue",
+            "addr:postcode": 80222,
+            "opening_hours": "Mo-Th 11:00-23:00, Fr-Sa 11:00-23:59, Su 11:00-23:00",
+            "addr:housenumber": 6460
+          }
+        },
+        "place_id": "5123128596753a5ac059b981139040d54340f00103f901b4211ba60000000092031650697a7a6120487574202b2057696e67537472656574"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.913427,
+          39.666032800221224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yak & Yeti Restaurant & Brewpub",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Colorado",
+        "city": "Denver",
+        "postcode": "80231",
+        "street": "East Hampden Avenue",
+        "housenumber": "9755",
+        "lon": -104.874415863136,
+        "lat": 39.65362995,
+        "state_code": "CO",
+        "formatted": "Yak & Yeti Restaurant & Brewpub, 9755 East Hampden Avenue, Denver, CO 80231, United States of America",
+        "address_line1": "Yak & Yeti Restaurant & Brewpub",
+        "address_line2": "9755 East Hampden Avenue, Denver, CO 80231, United States of America",
+        "categories": [
+          "building",
+          "building.catering",
+          "catering",
+          "catering.restaurant",
+          "catering.restaurant.indian",
+          "wheelchair",
+          "wheelchair.limited"
+        ],
+        "details": [
+          "details",
+          "details.catering",
+          "details.contact",
+          "details.facilities"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database Licence",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Yak & Yeti Restaurant & Brewpub",
+            "phone": "+1-303-751-9443",
+            "osm_id": 270513145,
+            "amenity": "restaurant",
+            "cuisine": "indian",
+            "website": "http://www.theyakandyeti.com/",
+            "alt_name": "Yak and Yeti",
+            "building": "yes",
+            "osm_type": "w",
+            "takeaway": "yes",
+            "addr:city": "Denver",
+            "addr:state": "CO",
+            "wheelchair": "limited",
+            "addr:street": "East Hampden Avenue",
+            "addr:postcode": 80231,
+            "opening_hours": "Mo-Sa 11:00-21:30; Su 11:00-21:00",
+            "addr:housenumber": 9755
+          }
+        },
+        "place_id": "513feadd6bf6375ac0593e4a1265a9d34340f00102f901f9b31f100000000092031f59616b202620596574692052657374617572616e7420262042726577707562"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.87441536589994,
+          39.65360701935832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pho 63",
+        "old_name": "Oshima Ramen",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Colorado",
+        "city": "Denver",
+        "postcode": "80231",
+        "street": "East Hampden Avenue",
+        "housenumber": "7800",
+        "lon": -104.900019,
+        "lat": 39.6527598,
+        "state_code": "CO",
+        "formatted": "Pho 63, 7800 East Hampden Avenue, Denver, CO 80231, United States of America",
+        "address_line1": "Pho 63",
+        "address_line2": "7800 East Hampden Avenue, Denver, CO 80231, United States of America",
+        "categories": [
+          "catering",
+          "catering.restaurant",
+          "catering.restaurant.vietnamese"
+        ],
+        "details": [
+          "details",
+          "details.catering",
+          "details.contact"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database Licence",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Pho 63",
+            "phone": "+1-303-694-0959",
+            "osm_id": 2784697298,
+            "amenity": "restaurant",
+            "cuisine": "vietnamese",
+            "website": "http://www.pho63.com/",
+            "old_name": "Oshima Ramen",
+            "osm_type": "n",
+            "addr:city": "Denver",
+            "addr:unit": 48,
+            "addr:state": "CO",
+            "addr:street": "East Hampden Avenue",
+            "addr:postcode": 80231,
+            "opening_hours": "Mo-Sa 10:00-21:00, Su 10:30-20:30",
+            "addr:housename": "Tiffany Plaza",
+            "phone:alternate": "(303) 694-0601",
+            "addr:housenumber": 7800
+          }
+        },
+        "place_id": "51d5b14ae999395ac059f50a15a28dd34340f00103f901d21bfba50000000092030650686f203633"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.900019,
+          39.65275980021935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pho Bom",
+        "old_name": "Saigon Fusion",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Colorado",
+        "city": "Denver",
+        "postcode": "80231",
+        "street": "East Hampden Avenue",
+        "housenumber": "8720",
+        "lon": -104.886302,
+        "lat": 39.652655,
+        "state_code": "CO",
+        "formatted": "Pho Bom, 8720 East Hampden Avenue, Denver, CO 80231, United States of America",
+        "address_line1": "Pho Bom",
+        "address_line2": "8720 East Hampden Avenue, Denver, CO 80231, United States of America",
+        "categories": [
+          "catering",
+          "catering.restaurant",
+          "catering.restaurant.vietnamese"
+        ],
+        "details": [
+          "details",
+          "details.catering",
+          "details.contact"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database Licence",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Pho Bom",
+            "phone": "+1-303-843-6080",
+            "osm_id": 2762916147,
+            "amenity": "restaurant",
+            "cuisine": "vietnamese",
+            "website": "https://phobomdenver.com/",
+            "old_name": "Saigon Fusion",
+            "osm_type": "n",
+            "addr:city": "Denver",
+            "addr:state": "CO",
+            "addr:street": "East Hampden Avenue",
+            "addr:postcode": 80231,
+            "opening_hours": "Mo-Sa 10:00-21:30, Su 11:00-20:00",
+            "addr:housenumber": 8720
+          }
+        },
+        "place_id": "514718062cb9385ac059a8c1f4328ad34340f00103f90133c1aea40000000092030750686f20426f6d"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.88630199999999,
+          39.65265500021934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tuk Tuk Thai Grill",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Colorado",
+        "city": "Denver",
+        "postcode": "80237",
+        "street": "East Quincy Avenue",
+        "housenumber": "8000",
+        "lon": -104.896941,
+        "lat": 39.6383733,
+        "state_code": "CO",
+        "formatted": "Tuk Tuk Thai Grill, 8000 East Quincy Avenue, Denver, CO 80237, United States of America",
+        "address_line1": "Tuk Tuk Thai Grill",
+        "address_line2": "8000 East Quincy Avenue, Denver, CO 80237, United States of America",
+        "categories": [
+          "catering",
+          "catering.restaurant",
+          "catering.restaurant.thai"
+        ],
+        "details": [
+          "details",
+          "details.catering",
+          "details.contact"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database Licence",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Tuk Tuk Thai Grill",
+            "phone": "+1-303-988-5885",
+            "osm_id": 565878148,
+            "amenity": "restaurant",
+            "cuisine": "thai",
+            "website": "http://www.tuktukrocks.com",
+            "alt_name": "Tuk Tuk Thai Grill DTC",
+            "osm_type": "n",
+            "addr:city": "Denver",
+            "addr:state": "CO",
+            "addr:street": "East Quincy Avenue",
+            "addr:postcode": 80237,
+            "opening_hours": "Mo-Su 11:00-21:00",
+            "addr:housenumber": 8000
+          }
+        },
+        "place_id": "51425c397b67395ac05959895f37b6d14340f00103f901849dba210000000092031254756b2054756b2054686169204772696c6c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.896941,
+          39.63837330021733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "South Garden",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Colorado",
+        "city": "Denver",
+        "postcode": "80237",
+        "street": "East Quincy Avenue",
+        "housenumber": "8000",
+        "lon": -104.898062,
+        "lat": 39.6383121,
+        "state_code": "CO",
+        "formatted": "South Garden, 8000 East Quincy Avenue, Denver, CO 80237, United States of America",
+        "address_line1": "South Garden",
+        "address_line2": "8000 East Quincy Avenue, Denver, CO 80237, United States of America",
+        "categories": [
+          "catering",
+          "catering.restaurant",
+          "catering.restaurant.chinese"
+        ],
+        "details": [
+          "details",
+          "details.catering",
+          "details.contact"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database Licence",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "South Garden",
+            "phone": "+1-303-770-1818",
+            "osm_id": 565879228,
+            "amenity": "restaurant",
+            "cuisine": "chinese",
+            "website": "https://www.southgardendenver.com/",
+            "alt_name": "South Garden Chinese Restaurant",
+            "osm_type": "n",
+            "addr:city": "Denver",
+            "addr:unit": 2400,
+            "addr:state": "CO",
+            "addr:street": "East Quincy Avenue",
+            "addr:postcode": 80237,
+            "opening_hours": "Mo-Th 11:00-21:00, Fr 11:00-21:30, Sa 12:00-21:30, Su 12:00-21:00",
+            "addr:housenumber": 8000
+          }
+        },
+        "place_id": "51f1f109d979395ac0598889fd35b4d14340f00103f901bca1ba210000000092030c536f7574682047617264656e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.898062,
+          39.63831210021732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Fogata",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Colorado",
+        "city": "Denver",
+        "postcode": "80237",
+        "street": "East Quincy Avenue",
+        "housenumber": "8090",
+        "lon": -104.895358,
+        "lat": 39.6381055,
+        "state_code": "CO",
+        "formatted": "La Fogata, 8090 East Quincy Avenue, Denver, CO 80237, United States of America",
+        "address_line1": "La Fogata",
+        "address_line2": "8090 East Quincy Avenue, Denver, CO 80237, United States of America",
+        "categories": [
+          "catering",
+          "catering.restaurant",
+          "catering.restaurant.mexican"
+        ],
+        "details": [
+          "details",
+          "details.catering",
+          "details.contact"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database Licence",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "La Fogata",
+            "phone": "+1-720-974-7315",
+            "osm_id": 565875881,
+            "amenity": "restaurant",
+            "cuisine": "mexican",
+            "website": "http://www.la-fogata.com",
+            "osm_type": "n",
+            "addr:city": "Denver",
+            "addr:state": "CO",
+            "addr:street": "East Quincy Avenue",
+            "addr:postcode": 80237,
+            "opening_hours": "Mo-Th 11:00-21:00, Fr-Sa 11:00-22:00, Su 10:00-21:00",
+            "addr:housenumber": 8090
+          }
+        },
+        "place_id": "51900da48b4d395ac0595f6ae770add14340f00103f901a994ba21000000009203094c6120466f67617461"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.89535799999999,
+          39.6381055002173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "McCormick & Schmick's",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Colorado",
+        "city": "Denver",
+        "postcode": "80237",
+        "district": "Denver Tech Center",
+        "street": "East Union Avenue",
+        "housenumber": "8100",
+        "lon": -104.894379,
+        "lat": 39.6287276,
+        "state_code": "CO",
+        "formatted": "McCormick & Schmick's, 8100 East Union Avenue, Denver, CO 80237, United States of America",
+        "address_line1": "McCormick & Schmick's",
+        "address_line2": "8100 East Union Avenue, Denver, CO 80237, United States of America",
+        "categories": [
+          "catering",
+          "catering.restaurant",
+          "catering.restaurant.seafood"
+        ],
+        "details": [
+          "details",
+          "details.catering",
+          "details.contact"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database Licence",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "fax": "(866) 406-5975",
+            "name": "McCormick & Schmick's",
+            "brand": "McCormick & Schmick's",
+            "phone": "(720) 200-9339",
+            "branch": "Seafood & Steaks",
+            "osm_id": 1924752330,
+            "amenity": "restaurant",
+            "cuisine": "seafood;steak",
+            "website": "https://www.mccormickandschmicks.com/Locations/denver-colorado/denver-colorado/eastunionave.aspx",
+            "osm_type": "n",
+            "addr:city": "Denver",
+            "addr:state": "CO",
+            "addr:street": "East Union Avenue",
+            "addr:postcode": 80237,
+            "opening_hours": "Mo-Th 11:00-21:00, Fr 11:00-22:00, Sa 16:00-22:00, Su 16:00-21:00",
+            "brand:wikidata": "Q6800562",
+            "brand:wikipedia": "en:McCormick & Schmick's",
+            "addr:housenumber": 8100
+          }
+        },
+        "place_id": "51abce6a813d395ac059958260257ad04340f00103f901ca63b972000000009203154d63436f726d69636b2026205363686d69636b2773"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.894379,
+          39.628727600215974
+        ]
+      }
+    }
+  ]
+}
