@@ -4,7 +4,7 @@ class Restaurant
   def initialize(data)
     @name = data[:properties][:name]
     @cuisine = data[:properties][:datasource][:raw][:cuisine] || 'vegan'
-    @hours = parse_hours(data[:properties][:datasource][:raw][:opening_hours])
+    @hours = data[:properties][:datasource][:raw][:opening_hours] #parse_hours(data[:properties][:datasource][:raw][:opening_hours])
     @id = data[:properties][:datasource][:raw][:osm_id]
   end
 
