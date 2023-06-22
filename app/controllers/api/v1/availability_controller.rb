@@ -14,18 +14,4 @@ class Api::V1::AvailabilityController < ApplicationController
 
     render json: { date: date, availability: availability }.to_json
   end
-
-  private
-
-  def weekly_schedule
-    {
-      sun: [],
-      mon: [],
-      tue: [],
-      wed: [],
-      thu: [],
-      fri: [],
-      sat: []
-    }
-  end
 end
